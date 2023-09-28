@@ -1,0 +1,26 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gourav Chamaria 101354494",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GouravChamaria/comp3104.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GouravChamaria/comp3104/issues"
+  },
+  "homepage": "https://github.com/GouravChamaria/comp3104#readme",
+  "keywords": [
+    "Node js",
+    "server",
+    "devops",
+    "comp3104",
+    "express"
+  ]
+}
